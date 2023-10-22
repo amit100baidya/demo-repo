@@ -1,4 +1,5 @@
 # demo-repo
 1st git repo
 <br>
-author-amit
+author- Amit Baidya 100
+hello ho ho ho 
